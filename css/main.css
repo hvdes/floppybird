@@ -313,7 +313,7 @@ Screen - Game
    position: absolute;
    width: 34px;
    height: 24px;
-   background-image: url('https://cloud.githubusercontent.com/assets/11204767/6475655/c6d8e8fe-c1da-11e4-9378-6fccde1d35ed.png');
+   background-image: url('https://cloud.githubusercontent.com/assets/11204767/6476073/6aba84f6-c1df-11e4-8e0f-a63611518a68.png');
    
    -webkit-animation: animBird 300ms steps(4) infinite;
    animation: animBird 300ms steps(4) infinite;
